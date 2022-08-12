@@ -1,0 +1,108 @@
+/* body{
+    background-image: url(image/immobilier.jpg ) no-repeat;  
+    
+} */
+ .form-bg{
+     background-image: url(image/u.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+} 
+.form_horizontal{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+     text-align: center;
+
+}
+/* .form_horizontal */ .form_icon{
+     color: #555;
+     font-size: 100px;
+     line-height: 55px;
+     margin: 0 0 13;
+     text-align: center;
+}
+/* .form_horizontal */.title{
+    color: #191917;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 0 35 0;
+}
+.form-group{
+margin: 0 0 10;
+position: relative;
+
+}
+.form-horizontal .input-icon{
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 13px;
+    color: #fff;
+}
+.form-horizontal .form-control{
+    color: #555;
+    background-color: #fff;
+    letter-spacing: 1px;
+    font-size: 13px;
+    height: 37px;
+    padding: 2px 15px 2px;
+    border: none;
+    border-radius: 50px;
+}
+.form-horizontal .form-control::placeholder{
+    color: rgba(0, 0, 0, 0, 7);
+    font-size: 14px;
+    text-transform: capitalize;
+
+}
+.form-horizontal .btn{
+    color: #fff;
+    background: #222;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+    border: none;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 17px;
+    color: #fff;
+    margin-left: 50px;
+}
+.glyphicon-pencil{
+    font-size: 35px;
+    color: #191917;
+    float: right;
+    margin-top: 20px;
+
+}
+.col-md-5{
+    margin-left: 75px;
+    margin-top: 80px;
+    box-shadow: -10px 10px 80px 20px black;
+    background: rgba(0, 0, 0, 0, 4);
+}
+.label{
+    font-weight: normal;
+    margin-top: 15px;
+    color: black;
+    font-size: 18px;
+
+}
+/* .container .socim{
+ text-align: center;
+ height: -5px;
+ top: 30px;
+
+ */

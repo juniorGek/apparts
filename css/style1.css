@@ -1,0 +1,16 @@
+ *{
+    margin:0px;
+    padding: 0px;
+   
+}
+body{
+    background: url(image/header-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+ h1{
+    font-size: 40px;
+   margin-top: 250px; 
+   color: white;
+}
